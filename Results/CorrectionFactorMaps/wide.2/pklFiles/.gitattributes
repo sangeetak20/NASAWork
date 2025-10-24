@@ -1,0 +1,2 @@
+sam_bubble_maps.wide.2.5.500_z_9.850.h5 filter=lfs diff=lfs merge=lfs -text
+sam_bubble_maps.wide.3.5.500_z_9.850.h5 filter=lfs diff=lfs merge=lfs -text
