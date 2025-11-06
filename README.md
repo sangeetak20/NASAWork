@@ -1,3 +1,5 @@
+To pull this repo, you will need to have had `git lfs` installed since that is how I was able to upload some of these files (GitHub is weird about file storage). You should be able to do this by typing into your terminal `brew install gitlfs` if you have a brew environment. If not, go here: https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
+
 Explanation of Repo: 
 
 # Notebooks
